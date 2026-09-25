@@ -1,8 +1,7 @@
 # Datos para Todos
 ### Alfabetización digital con datos abiertos del municipio
 
-**Autora:** Sara Sandino González
-**Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Autora:** Sara Sandino
 **Concurso Datos Abiertos de la Comunidad de Castilla y León 2026** · Categorías Ideas y Recurso Didáctico
 
 ---
@@ -41,33 +40,33 @@ Los Talleres 5 y 6 **no tienen notebook propio**, y es una decisión de diseño,
 datos-para-todos/
 ├── README.md
 ├── LICENSE.md
-├── guia_version_excel.md        (vía principal: instrucciones paso a paso para Excel/Calc)
+├── guia_version_excel.md        
 ├── taller1_que_son_datos_abiertos/
 │   ├── guia_alumnado.md
 │   ├── guia_facilitacion.md
-│   ├── notebook_taller1.ipynb   (ampliación opcional en Python; Parte A + Parte B)
-│   └── datos/                   (ofertas_empleo.csv, catalogo_datasets.csv)
+│   ├── notebook_taller1.ipynb   
+│   └── datos/                   
 ├── taller2_buscar_informacion_cerca/
 │   ├── guia_alumnado.md
 │   ├── guia_facilitacion.md
-│   ├── notebook_taller2.ipynb   (ampliación opcional en Python; Parte A + Parte B)
-│   └── datos/                   (ofertas_empleo.csv, formacion_ecyl.csv)
+│   ├── notebook_taller2.ipynb   
+│   └── datos/                  
 ├── taller3_ordenar_tabla_sin_miedo/
 │   ├── guia_alumnado.md
 │   ├── guia_facilitacion.md
-│   ├── notebook_taller3.ipynb   (ampliación opcional en Python)
-│   └── datos/                   (oferta_fp.csv)
+│   ├── notebook_taller3.ipynb   
+│   └── datos/                   
 ├── taller4_del_dato_al_grafico/
 │   ├── guia_alumnado.md
 │   ├── guia_facilitacion.md
-│   ├── notebook_taller4.ipynb   (ampliación opcional en Python)
-│   └── datos/                   (directorio_centros.csv)
+│   ├── notebook_taller4.ipynb  
+│   └── datos/                   
 ├── taller5_interpretar_sin_precipitarse/
 │   ├── guia_alumnado.md
-│   └── guia_facilitacion.md     (sin notebook: reutiliza datos de talleres anteriores)
+│   └── guia_facilitacion.md     
 ├── taller6_mi_municipio_en_datos/
 │   ├── guia_alumnado.md
-│   └── guia_facilitacion.md     (sin notebook: proyecto libre, sin dataset fijo)
+│   └── guia_facilitacion.md    
 ├── rubricas/
 │   └── rubricas_evaluacion.md
 └── accesibilidad/
@@ -95,11 +94,11 @@ Todos los datasets provienen del [Portal de Datos Abiertos de la Junta de Castil
 
 | Dataset | Archivo(s) a subir a `datos/` | Enlace de descarga |
 |---|---|---|
-| Ofertas de Empleo | `ofertas_empleo.csv` | [analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo](https://analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo/) |
-| Catálogo de datasets del portal | `catalogo_datasets.csv` | [analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos](https://analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos/) |
-| Formación del ECYL | `formacion_ecyl.csv` | [datosabiertos.jcyl.es/.../formacion-empleo](https://datosabiertos.jcyl.es/web/jcyl/set/es/empleo/formacion-empleo/1284354357765) |
-| Oferta de estudios de FP | `oferta_fp.csv` | [datosabiertos.jcyl.es/.../oferta-formacion-profesional](https://datosabiertos.jcyl.es/web/jcyl/set/es/educacion/oferta-formacion-profesional/1285065645144) |
-| Directorio de Centros Docentes | `directorio_centros.csv` | [analisis.datosabiertos.jcyl.es/explore/dataset/directorio-de-centros-docentes](https://analisis.datosabiertos.jcyl.es/explore/dataset/directorio-de-centros-docentes/) |
+| Ofertas de Empleo | [analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo](https://analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo/) |
+| Catálogo de datasets del portal |  [analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos](https://analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos/) |
+| Formación del ECYL |  [datosabiertos.jcyl.es/.../formacion-empleo](https://datosabiertos.jcyl.es/web/jcyl/set/es/empleo/formacion-empleo/1284354357765) |
+| Oferta de estudios de FP |  [datosabiertos.jcyl.es/.../oferta-formacion-profesional](https://datosabiertos.jcyl.es/web/jcyl/set/es/educacion/oferta-formacion-profesional/1285065645144) |
+| Directorio de Centros Docentes |  [analisis.datosabiertos.jcyl.es/explore/dataset/directorio-de-centros-docentes](https://analisis.datosabiertos.jcyl.es/explore/dataset/directorio-de-centros-docentes/) |
 
 En los enlaces del portal de **análisis** (`analisis.datosabiertos.jcyl.es`), usa el botón **Exportar → CSV**. En los enlaces del portal **general** (`datosabiertos.jcyl.es`), la ficha del dataset tiene botones directos de descarga en varios formatos; pulsa el de **CSV**. Renombra siempre el archivo descargado exactamente como indica la columna "Archivo(s) a subir", porque los notebooks y las rutas del código esperan ese nombre exacto.
 
@@ -116,10 +115,3 @@ En los enlaces del portal de **análisis** (`analisis.datosabiertos.jcyl.es`), u
 - **Accesibilidad**: materiales imprimibles, tipografía legible, alternativa textual para gráficos (ver `accesibilidad/guia_accesibilidad.md`).
 - **Aprendizaje crítico**: cada taller distingue entre un dato, una interpretación razonable y una conclusión que los datos no permiten sostener.
 
-## Licencia
-
-Este recurso se publica bajo licencia **CC BY 4.0**. Puede copiarse, redistribuirse, adaptarse y usarse con cualquier fin, incluso comercial, mencionando la autoría original y enlazando a este repositorio. Los datos de origen conservan sus licencias propias del Portal de Datos Abiertos de la Junta de Castilla y León.
-
-## Autoría
-
-Proyecto presentado al Concurso de Datos Abiertos de la Comunidad de Castilla y León 2026, categorías Ideas y Recurso Didáctico, por Sara Sandino González (saragsandino@gmail.com).
