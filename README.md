@@ -92,8 +92,8 @@ Todos los datasets provienen del [Portal de Datos Abiertos de la Junta de Castil
 
 ## Dónde descargar cada dataset
 
-| Dataset | Archivo(s) a subir a `datos/` | Enlace de descarga |
-|---|---|---|
+| Dataset | Archivo(s) a subir a `datos/` | 
+|---|---|
 | Ofertas de Empleo | [analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo](https://analisis.datosabiertos.jcyl.es/explore/dataset/ofertas-de-empleo/) |
 | Catálogo de datasets del portal |  [analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos](https://analisis.datosabiertos.jcyl.es/explore/dataset/catalogo-de-datos/) |
 | Formación del ECYL |  [datosabiertos.jcyl.es/.../formacion-empleo](https://datosabiertos.jcyl.es/web/jcyl/set/es/empleo/formacion-empleo/1284354357765) |
