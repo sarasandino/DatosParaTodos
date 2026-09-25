@@ -1,8 +1,7 @@
 # Datos para Todos
 ### Alfabetización digital con datos abiertos del municipio
 
-**Autora:** Sara Sandino González
-**Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Autora:** Sara Sandino
 **Concurso Datos Abiertos de la Comunidad de Castilla y León 2026** · Categorías Ideas y Recurso Didáctico
 
 ---
@@ -82,10 +81,3 @@ Todos los datasets provienen del [Portal de Datos Abiertos de la Junta de Castil
 - **Accesibilidad**: materiales imprimibles, tipografía legible, alternativa textual para gráficos (ver `accesibilidad/guia_accesibilidad.md`).
 - **Aprendizaje crítico**: cada taller distingue entre un dato, una interpretación razonable y una conclusión que los datos no permiten sostener.
 
-## Licencia
-
-Este recurso se publica bajo licencia **CC BY 4.0**. Puede copiarse, redistribuirse, adaptarse y usarse con cualquier fin, incluso comercial, mencionando la autoría original y enlazando a este repositorio. Los datos de origen conservan sus licencias propias del Portal de Datos Abiertos de la Junta de Castilla y León.
-
-## Autoría
-
-Proyecto presentado al Concurso de Datos Abiertos de la Comunidad de Castilla y León 2026, categorías Ideas y Recurso Didáctico, por Sara Sandino González (saragsandino@gmail.com).
